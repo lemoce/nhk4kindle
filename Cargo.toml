@@ -1,0 +1,7 @@
+[package]
+name = "nhk4kindle"
+version = "0.1.0"
+authors = ["leandro"]
+edition = "2018"
+
+[dependencies]
